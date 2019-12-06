@@ -1,0 +1,12 @@
+h1, h2, h3 {
+    font-variant: small-caps;
+    background-color: greenyellow;
+    font: blue;
+}
+
+p {
+    margin-top: 1px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
