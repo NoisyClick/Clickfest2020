@@ -1,12 +1,9 @@
-h1, h2, h3 {
-    font-variant: small-caps;
-    background-color: greenyellow;
-    font: blue;
-}
-
 p {
-    margin-top: 1px;
-    margin-right: 5px;
-    margin-bottom: 10px;
-    margin-left: 20px;
+    
+     font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+     border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: red green blue yellow;
+     margin: 10px 50px;
 }
